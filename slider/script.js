@@ -12,13 +12,13 @@ let interval = setInterval(run, 2000)
 rightBtn.addEventListener('click', () => {
 	ind++
 	changeImg()
-	console.log(ind)
+	resetInterval()
 })
 
 leftBtn.addEventListener('click', () => {
 	ind--
 	changeImg()
-	console.log(ind)
+	resetInterval()
 })
 
 function changeImg(){
