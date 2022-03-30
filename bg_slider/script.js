@@ -13,7 +13,6 @@ rightBtn.addEventListener('click', () => {
 	}
 	setActiveSlide()
 	setBgToBody()
-	console.log(activeSlide)
 })
 
 leftBtn.addEventListener('click', () => {
@@ -23,12 +22,10 @@ leftBtn.addEventListener('click', () => {
 	}
 	setActiveSlide()
 	setBgToBody()
-	console.log(activeSlide)
 })
-
+setBgToBody()
 function setActiveSlide() {
 	slides.forEach(slide => slide.classList.remove('active'))
-
 	slides[activeSlide].classList.add('active')
 }
 
