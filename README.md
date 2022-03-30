@@ -7,4 +7,5 @@ Pet проекты js
 <img width="1439" alt="Screenshot 2022-03-29 at 16 40 48" src="https://user-images.githubusercontent.com/63720882/160625766-858bc2d9-494d-4b4b-bdb6-77806f290ed2.png">
 3. bg_slider: анимированный слайдер
 <img width="1439" alt="Screenshot 2022-03-30 at 13 48 48" src="https://user-images.githubusercontent.com/63720882/160814813-8c615e1a-fc2d-4dbc-bff0-b21dc5eb6afa.png">
-
+4. keycode: показывает, какая клавиша нажата<img width="1439" alt="Screenshot 2022-03-30 at 14 43 49" src="https://user-images.githubusercontent.com/63720882/160827123-2a90e3e4-1391-460e-bcd8-293abf7d6bee.png">
+5. 
