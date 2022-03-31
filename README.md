@@ -3,7 +3,7 @@
 1. counter: анимированный счетчик
 <img width="1439" alt="Screenshot 2022-03-31 at 23 16 07" src="https://user-images.githubusercontent.com/63720882/161141893-c1efb871-1a0c-41a4-bc5d-c4ca4d76cb09.png">
 2. slider: анимированный слайдер(карусель)
-<img width="1439" alt="Screenshot 2022-03-29 at 16 40 48" src="https://user-images.githubusercontent.com/63720882/160625766-858bc2d9-494d-4b4b-bdb6-77806f290ed2.png">
+<img width="1439" alt="Screenshot 2022-03-31 at 23 21 39" src="https://user-images.githubusercontent.com/63720882/161142780-7b92fbe1-3037-4239-b657-c0ac263716c6.png">
 3. bg_slider: анимированный слайдер
 <img width="1439" alt="Screenshot 2022-03-30 at 13 48 48" src="https://user-images.githubusercontent.com/63720882/160814813-8c615e1a-fc2d-4dbc-bff0-b21dc5eb6afa.png">
 4. keycode: показывает, какая клавиша нажата<img width="1439" alt="Screenshot 2022-03-30 at 14 43 49" src="https://user-images.githubusercontent.com/63720882/160827123-2a90e3e4-1391-460e-bcd8-293abf7d6bee.png">
