@@ -12,7 +12,7 @@
 7. menu_burger:  бургер меню 
 <img width="1439" alt="Screenshot 2022-03-31 at 19 34 30" src="https://user-images.githubusercontent.com/63720882/161106669-35705991-5ca4-410b-9b11-3bd39707b268.png">
 <img width="1439" alt="Screenshot 2022-03-31 at 19 39 35" src="https://user-images.githubusercontent.com/63720882/161106705-f8924d5c-378d-4af1-9fac-7b073782ca59.png">
-8. mibile_nav - мобильное меню
+8. mobile_nav - мобильное меню
 <img width="1439" alt="Screenshot 2022-03-31 at 22 49 37" src="https://user-images.githubusercontent.com/63720882/161137792-0cc6eab0-b67e-4fb4-8181-e73719631f3a.png">
 
 
