@@ -1,7 +1,7 @@
 # Пет проекты java script
 
 1. counter: анимированный счетчик
-<img width="1439" alt="Screenshot 2022-03-29 at 15 30 05" src="https://user-images.githubusercontent.com/63720882/160612403-3eeefa07-f38b-44db-9593-e71b796961f3.png">
+<img width="1439" alt="Screenshot 2022-03-31 at 23 16 07" src="https://user-images.githubusercontent.com/63720882/161141893-c1efb871-1a0c-41a4-bc5d-c4ca4d76cb09.png">
 2. slider: анимированный слайдер(карусель)
 <img width="1439" alt="Screenshot 2022-03-29 at 16 40 48" src="https://user-images.githubusercontent.com/63720882/160625766-858bc2d9-494d-4b4b-bdb6-77806f290ed2.png">
 3. bg_slider: анимированный слайдер
