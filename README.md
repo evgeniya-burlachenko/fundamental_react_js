@@ -14,7 +14,8 @@
 <img width="1439" alt="Screenshot 2022-03-31 at 23 07 19" src="https://user-images.githubusercontent.com/63720882/161140652-be4d8090-4d0a-4d52-85a7-4a51b0d77be4.png">
 <img width="1439" alt="Screenshot 2022-03-31 at 23 07 10" src="https://user-images.githubusercontent.com/63720882/161140710-c8ce60d0-8080-47b2-a6f3-7e8aa56371d2.png">
 8. mobile_nav - мобильное меню
-<img width="1439" alt="Screenshot 2022-03-31 at 23 04 22" src="https://user-images.githubusercontent.com/63720882/161140143-31e6714a-8050-407d-a0e3-c6bfd79788b8.png">
+<img width="1439" alt="Screenshot 2022-03-31 at 23 13 47" src="https://user-images.githubusercontent.com/63720882/161141540-88926f66-8ce0-4624-a4f3-baf8473a8b3f.png">
+
 
 
 
