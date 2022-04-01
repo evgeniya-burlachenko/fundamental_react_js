@@ -1,6 +1,5 @@
 # Пет проекты java script
 
-[cсылка][]
 
 [Example][]
 
@@ -21,9 +20,9 @@
 <img width="1439" alt="Screenshot 2022-03-31 at 23 07 10" src="https://user-images.githubusercontent.com/63720882/161140710-c8ce60d0-8080-47b2-a6f3-7e8aa56371d2.png">
 8. mobile_nav - мобильное меню
 <img width="1439" alt="Screenshot 2022-03-31 at 23 13 47" src="https://user-images.githubusercontent.com/63720882/161141540-88926f66-8ce0-4624-a4f3-baf8473a8b3f.png">
-[cсылка]: http://takiedela.beget.tech/old/pet_js/pet_js.php/
 
-[Example]: http://example.com/
+
+[Example]: http://takiedela.beget.tech/old/pet_js/pet_js.php/
 
 
 
