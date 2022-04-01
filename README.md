@@ -27,11 +27,12 @@
 <img width="1439" alt="Screenshot 2022-03-31 at 23 13 47" src="https://user-images.githubusercontent.com/63720882/161141540-88926f66-8ce0-4624-a4f3-baf8473a8b3f.png">
 
 [Example]: http://takiedela.beget.tech/old/pet_js/pet_js.php
+
 [counter]: http://takiedela.beget.tech/old/pet_js/burger/index.html
 [slider]: http://takiedela.beget.tech/old/pet_js/slider/index.html
 [bg_slider]: http://takiedela.beget.tech/old/pet_js/bg_slider/index.html
 [keycode]: http://takiedela.beget.tech/old/pet_js/keycode/index.html
-[tic-tac-toe]: http://takiedela.beget.tech/old/pet_js/tic-tac-toe/index.html
+[tic-tac-toe]: http://takiedela.beget.tech/old/pet_js/tic_tac_toe/index.html
 [ripple]: http://takiedela.beget.tech/old/pet_js/ripple/index.html
 [menu_burger]: http://takiedela.beget.tech/old/pet_js/menu_burger/index.html
 [mobile_nav]: http://takiedela.beget.tech/old/pet_js/mobile_nav/index.html
