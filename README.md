@@ -1,8 +1,6 @@
 # Пет проекты java script
 
-
 [Example][]
-
 
 1. [counter][]: анимированный счетчик
 <img width="1439" alt="Screenshot 2022-03-31 at 23 16 07" src="https://user-images.githubusercontent.com/63720882/161141893-c1efb871-1a0c-41a4-bc5d-c4ca4d76cb09.png">
