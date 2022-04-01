@@ -8,7 +8,7 @@
 <img width="1439" alt="Screenshot 2022-03-31 at 23 25 08" src="https://user-images.githubusercontent.com/63720882/161143311-15e21d6f-66b6-47f2-9910-fd3a5c21c0a8.png">
 4. keycode: показывает, какая клавиша нажата<img width="1439" alt="Screenshot 2022-03-30 at 14 43 49" src="https://user-images.githubusercontent.com/63720882/160827123-2a90e3e4-1391-460e-bcd8-293abf7d6bee.png">
 5. tic-tac-toe: крестики-нолики
-<img width="1439" alt="Screenshot 2022-03-31 at 23 29 05" src="https://user-images.githubusercontent.com/63720882/161143952-badc8368-0a60-4aea-bf1b-c3e81900eb9f.png">
+<img width="1439" alt="Screenshot 2022-04-01 at 12 13 55" src="https://user-images.githubusercontent.com/63720882/161234570-d161a48d-9f4e-4902-892e-d70cf8d81b14.png">
 6. ripple: ripple-эффект при нажатии кнопки
 <img width="1439" alt="Screenshot 2022-03-31 at 23 10 28" src="https://user-images.githubusercontent.com/63720882/161141095-8eb8794f-4489-4aec-a168-46850e7af693.png">
 7. menu_burger:  бургер меню 
