@@ -32,7 +32,7 @@
 [slider]: http://takiedela.beget.tech/old/pet_js/slider/index.html
 [bg_slider]: http://takiedela.beget.tech/old/pet_js/bg_slider/index.html
 [keycode]: http://takiedela.beget.tech/old/pet_js/keycode/index.html
-[tic-tac-toe]: http://takiedela.beget.tech/old/pet_js/tic-tac-toe/index.html
+[tic-tac-toe]: http://takiedela.beget.tech/old/pet_js/tic_tac_toe/index.html
 [ripple]: http://takiedela.beget.tech/old/pet_js/ripple/index.html
-[menu_burger]: http://takiedela.beget.tech/old/pet_js/menu_burger/index.html
+[menu_burger]: http://takiedela.beget.tech/old/pet_js/burger/index.html
 [mobile_nav]: http://takiedela.beget.tech/old/pet_js/phone_nav/index.html
