@@ -1,6 +1,6 @@
 # Пет проекты java script
 
-
+[cсылка]
 [cсылка]: http://takiedela.beget.tech/old/pet_js/pet_js.php
 
 1. counter: анимированный счетчик
