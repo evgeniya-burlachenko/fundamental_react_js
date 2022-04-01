@@ -56,7 +56,7 @@ body::before {
 
 .arrow {
 	position: fixed;
-	background-color:  transparent;
+	background-color:  transparent; /*Устанавливает прозрачный фон. */
 	color: #fff;
 	padding: 20px;
 	font-size: 30px;

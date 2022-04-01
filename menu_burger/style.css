@@ -6,7 +6,7 @@
 
 body {
 /* background-color: #eafbff; */
-background: linear-gradient(blue, pink);
+background: linear-gradient(white, black);
 /* background-color: linear-gradient(
 		to bottom,
 		#eafbff 0%,
@@ -85,7 +85,7 @@ nav ul a {
 }
 
 .icon .line {
-	background-color: #5290f9;
+	background-color: #0f0f0f;
 	height: 2px;
 	width: 20px;
 	position: absolute;

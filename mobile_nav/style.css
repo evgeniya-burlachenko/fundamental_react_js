@@ -5,7 +5,7 @@
 }
 
 body {
-	background-color:#070707d9;
+	background: linear-gradient(#dddddf, #4d4e49);
 	font-family: 'Open Sans', sans-serif;
 	display: flex;
 	align-items: center;

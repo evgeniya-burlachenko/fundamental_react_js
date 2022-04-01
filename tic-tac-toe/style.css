@@ -1,7 +1,7 @@
 .content-area {
 	width: 90vw;
 	height: 70vh;
-	background-color: rgba(255, 248, 240);
+	background-color: #777373;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -12,7 +12,7 @@
 	flex-wrap: wrap;
 	width: 300px;
 	height: 300px;
-	background-color: rgba(255, 231, 231);
+	background-color: #fff;
 }
 
 .box {
