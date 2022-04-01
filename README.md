@@ -5,7 +5,7 @@
 1. [counter][]: анимированный счетчик
 <img width="1439" alt="Screenshot 2022-03-31 at 23 16 07" src="https://user-images.githubusercontent.com/63720882/161141893-c1efb871-1a0c-41a4-bc5d-c4ca4d76cb09.png">
 
-2. [slider][]: анимированный счетчик
+2. [slider][]: слайдер
 <img width="1439" alt="Screenshot 2022-03-31 at 23 21 39" src="https://user-images.githubusercontent.com/63720882/161142780-7b92fbe1-3037-4239-b657-c0ac263716c6.png">
 
 3. [bg_slider][]: фон-слайдер
