@@ -22,7 +22,7 @@
 <img width="1439" alt="Screenshot 2022-03-31 at 23 13 47" src="https://user-images.githubusercontent.com/63720882/161141540-88926f66-8ce0-4624-a4f3-baf8473a8b3f.png">
 
 
-[Example]: http://takiedela.beget.tech/old/pet_js/pet_js.php/
+[Example]: http://takiedela.beget.tech/old/pet_js/pet_js.php
 
 
 
